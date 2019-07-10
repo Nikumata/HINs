@@ -31,8 +31,8 @@ from u
 to e
 property : times
 
-例如：
-         times = 5 
-ui --------------------> ei
+例如： 
+          
+ui -------times = 5------> ei
 
 学生ui在这一周中，给时间片tj内在地点ck消费了5次
